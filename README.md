@@ -31,5 +31,5 @@
 - 다양한 데이터 전처리 및 모델링 기법을 팀원과의 협업 속에서 적용하고 배움
 
 <p align="center">
-  <img src="college.jpg" alt="수상 증빙 이미지" width="500px">
+  <img src="College.jpg" alt="수상 증빙 이미지" width="500px">
 </p>
